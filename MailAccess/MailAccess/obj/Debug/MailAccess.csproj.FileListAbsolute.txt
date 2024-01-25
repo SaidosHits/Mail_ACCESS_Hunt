@@ -1,0 +1,7 @@
+C:\Users\saidl\source\repos\MailAccess\MailAccess\bin\Debug\MailAccess.exe.config
+C:\Users\saidl\source\repos\MailAccess\MailAccess\bin\Debug\MailAccess.exe
+C:\Users\saidl\source\repos\MailAccess\MailAccess\bin\Debug\MailAccess.pdb
+C:\Users\saidl\source\repos\MailAccess\MailAccess\obj\Debug\MailAccess.csproj.CoreCompileInputs.cache
+C:\Users\saidl\source\repos\MailAccess\MailAccess\obj\Debug\MailAccess.exe
+C:\Users\saidl\source\repos\MailAccess\MailAccess\obj\Debug\MailAccess.pdb
+C:\Users\saidl\source\repos\MailAccess\MailAccess\obj\Debug\MailAccess.csproj.AssemblyReference.cache
